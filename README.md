@@ -1,6 +1,6 @@
 # OFDM_Receiver
 
-Hi! Over my last school term, I was taking a course about Wireless Communications (ECE414) where the final project was to build a OFDM receiver, that would be able to demodulate a signal in a communication pipeline. 
+Hi! Over my 4A academic term at the University of Waterloo, I was taking a course on Wireless Communications (ECE414) where the final project was to build a OFDM receiver, that would be able to demodulate a signal in a communication pipeline. 
 
 The design follows a traditional OFDM receiver design which incorporates parallelizing bitstreams for OFDM subcarriers, removing the pilot signal, later used for channel equalization, and removing a cyclic prefix used to assist in combatting inter-symbol interference (ISI).
 
