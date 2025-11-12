@@ -14,4 +14,6 @@ The OFDM_demodulator.py depicts these steps in detail, as it is mirrored off the
 
 To run the program, you will need Python 3. After downloading Python 3, simply git clone this repository and from inside the directory in your terminal, run:
 
-python3 OFDM_demodulator.py signal.csv
+python3 OFDM_demodulator.py
+
+Make sure signal.csv is in the same directory as OFDM_demodulator.py since the program assumes that, if moved, then the file location in the program has to be updated.
